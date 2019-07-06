@@ -55,7 +55,7 @@ ML-Agentsに関連する一連のブログ記事を公開しました。
 
 ## コミュニティとフィードバック
 
-ML-Agentsツールキットはオープンソースプロジェクトであり、私たちは貢献を奨励し歓迎します。 あなたが貢献したいならば、必ず私たちの[貢献ガイドライン]（CONTRIBUTING.md）と[行動規範]（CODE_OF_CONDUCT.md）を見直してください。
+ML-Agentsツールキットはオープンソースプロジェクトであり、私たちは貢献を奨励し歓迎します。 あなたが貢献したいならば、必ず私たちの[貢献ガイドライン](CONTRIBUTING.md)と[行動規範](CODE_OF_CONDUCT.md)を見直してください。
 
 ML-Agentsツールキットを使用して問題が発生した場合は、[issueを送信してください](https://github.com/Unity-Technologies/ml-agents/issues) 、可能な限り詳細を含めるようにしてください。
 
