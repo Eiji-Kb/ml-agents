@@ -36,8 +36,8 @@
 
 ML-Agentsに関連する一連のブログ記事を公開しました。
 
-*強化学習の概念の概要
-  （[マルチ武装盗賊](https://blogs.unity3d.com/2017/06/26/unity-ai-themed-blog-entries/)
+* 強化学習の概念の概要
+  （[マルチアームバンディット問題](https://blogs.unity3d.com/2017/06/26/unity-ai-themed-blog-entries/)
   そして
   [Q-learning](https://blogs.unity3d.com/2017/08/22/unity-ai-reinforcement-learning-with-q-learning/))
 * [実際のゲームでの機械学習エージェントの使用：初心者ガイド](https://blogs.unity3d.com/2017/12/11/using-machine-learning-agents-in-a-real-game-a-beginners-guide/)
