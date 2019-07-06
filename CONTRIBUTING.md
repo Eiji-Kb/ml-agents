@@ -1,9 +1,10 @@
-# Contribution Guidelines
+# コントリビューションガイドライン
 
 Thank you for your interest in contributing to the ML-Agents toolkit! We are
 incredibly excited to see how members of our community will use and extend the
 ML-Agents toolkit. To facilitate your contributions, we've outlined a brief set
 of guidelines to ensure that your extensions can be easily integrated.
+ML-Agentsツールキットへの貢献に関心をお寄せいただきありがとうございます！ 私たちのコミュニティのメンバーが、どのようにML-Agentsツールキットを使用しまた拡張するのかを見ることは、とてもエキサイティングなことです。 あなたの貢献を促進し、あなたの拡張が容易に統合されることができることを確実にするために、私達はガイドラインの簡単なセットを概説しました。
 
 ## Communication
 
