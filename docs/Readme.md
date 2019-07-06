@@ -62,13 +62,13 @@
 * [Wrapping Learning Environment as a Gym (+Baselines/Dopamine Integration)](../gym-unity/README.md)
 * [Creating custom protobuf messages](Creating-Custom-Protobuf-Messages.md)
 
-#Unity ML-Agentsツールキットドキュメント
+# Unity ML-Agentsツールキットドキュメント
 
-##インストールと設定
+## インストールと設定
 
 * [インストール](Installation.md)
-  * [背景：Jupyter Notebooks](Background-Jupyter.md)
-  * [Dockerセットアップ](Using-Docker.md)
+  * [背景：Jupyter Notebooks](Background-Jupyter.md)
+  * [Dockerセットアップ](Using-Docker.md)
 * [基本ガイド](Basic-Guide.md)
 
 ## 入門
