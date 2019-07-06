@@ -1,14 +1,10 @@
-# Installation
+# インストール
 
-To install and use ML-Agents, you need to install Unity, clone this repository and
-install Python with additional dependencies. Each of the subsections below
-overviews each step, in addition to a Docker set-up.
+ML-Agentsをインストールして使用するには、Unityをインストールし、このリポジトリを複製し、そしてPythonを追加の依存関係と共にインストールする必要があります。 以下の各サブセクションでは、Dockerの設定に加えて、各ステップの概要を説明します。
 
-## Install **Unity 2017.4** or Later
+## **Unity 2017.4** 以降をインストール
 
-[Download](https://store.unity.com/download) and install Unity. If you would
-like to use our Docker set-up (introduced later), make sure to select the _Linux
-Build Support_ component when installing Unity.
+[ダウンロード](https://store.unity.com/download) してUnityをインストールしてください。Dockerセットアップ（後で紹介します）を使用したい場合は、Unityのインストール時に _Linux Build Support_ コンポーネントを必ず選択してください。
 
 <p align="center">
   <img src="images/unity_linux_build_support.png"
@@ -16,10 +12,11 @@ Build Support_ component when installing Unity.
        width="500" border="10" />
 </p>
 
-## Windows Users
+## Windows ユーザ
 For setting up your environment on Windows, we have created a [detailed
 guide](Installation-Windows.md) to setting up your env. For Mac and Linux,
 continue with this guide.
+Windowsであなたの環境をセットアップするために、私達はあなたの環境をセットアップするために[詳細ガイド](Installation-Windows.md) を作成しました。 MacとLinuxの場合は、このガイドを続けてください。
 
 ## Mac and Unix Users
 
