@@ -59,7 +59,7 @@ ML-Agentsツールキットはオープンソースプロジェクトであり�
 
 ML-Agentsツールキットを使用して問題が発生した場合は、[issueを送信してください](https://github.com/Unity-Technologies/ml-agents/issues) 、可能な限り詳細を含めるようにしてください。
 
-あなたの意見は私達にとって非常に重要です。 Unity ML-Agents Toolkitについてのあなたの考えを聞くことによってのみ、私たちは改善し成長し続けることができます。私たちに知らせるために、どうか数分でよいのでお時間をください[それについて教えてください](https://github.com/Unity-Technologies/ml-agents/issues/1454). 
+あなたの意見は私たちにとって非常に重要です。 Unity ML-Agentsツールキットについてのあなたの考えを聞くことによってのみ、私たちは改善し成長し続けることができます。どうか数分でよいので時間を割いて頂き、私たちに[それについて教えてください](https://github.com/Unity-Technologies/ml-agents/issues/1454). 
 
 その他の質問やフィードバックについては、ML-Agentsチーム（ml-agents@unity3d.com）に直接連絡してください。
 ## 翻訳
