@@ -52,7 +52,7 @@
 
 * [以前のバージョンのML-Agentsからの移行](Migrating.md)
 * [よくある質問](FAQ.md)
-* [ML--Agents用語集](Glossary.md)
+* [ML-Agents用語集](Glossary.md)
 * [制限事項](Limitations.md)
 
 ## APIドキュメント
