@@ -22,24 +22,11 @@ Windowsであなたの環境をセットアップするために、私達はあ�
 
 ### ML-Agents ツールキット リポジトリのクローン作成
 
-Once installed, you will want to clone the ML-Agents Toolkit GitHub repository.
-インストールが完了したら、ML-Agents ツールキット GitHubリポジトリを複製します。
+Unityのインストールが完了したら、ML-Agents ツールキット GitHubリポジトリを複製します。
 
 ```sh
 git clone https://github.com/Unity-Technologies/ml-agents.git
 ```
-
-The `UnitySDK` subdirectory contains the Unity Assets to add to your projects.
-It also contains many [example environments](Learning-Environment-Examples.md)
-to help you get started.
-
-The `ml-agents` subdirectory contains a Python package which provides deep reinforcement 
-learning trainers to use with Unity environments.
-
-The `ml-agents-envs` subdirectory contains a Python API to interface with Unity, which
-the `ml-agents` package depends on. 
-
-The `gym-unity` subdirectory contains a package to interface with OpenAI Gym.
 
 `UnitySDK`サブディレクトリはあなたのプロジェクトに追加するUnityアセットを含みます。
 それはまたあなたが始めるのを助けるために多くの[サンプル環境]（Learning-Environment-Examples.md）を含んでいます。
@@ -55,7 +42,7 @@ The `gym-unity` subdirectory contains a package to interface with OpenAI Gym.
 In order to use ML-Agents toolkit, you need Python 3.6 along with the
 dependencies listed in the [setup.py file](../ml-agents/setup.py).
 Some of the primary dependencies include:
-ML-Agentsツールキットを使用するには、[setup.pyファイル]（../ ml-agents / setup.py）にリストされている依存関係と共にPython 3.6が必要です。
+ML-Agentsツールキットを使用するには、[setup.pyファイル](../ml-agents/setup.py).にリストされている依存関係と共にPython 3.6が必要です。
 主な依存関係には、次のものがあります。
 
 
