@@ -40,6 +40,7 @@ We include pre-trained models for our agents (`.nn` files) and we use the
 [Unity Inference Engine](Unity-Inference-Engine.md) to run these models 
 inside Unity. In this section, we will use the pre-trained model for the 
 3D Ball example.
+私達は私達のエージェントのために事前に訓練されたモデル（ `.nn`ファイル）を含め、そして私達は[Unity推論エンジン]（Unity-Inference-Engine.md）をUnityの中で実行するために使用します。 このセクションでは、3D Ballの例として事前学習モデルを使用します。
 
 1. In the **Project** window, go to the `Assets/ML-Agents/Examples/3DBall/Scenes` folder
    and open the `3DBall` scene file.
