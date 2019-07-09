@@ -1,17 +1,13 @@
-# Basic Guide
+# 基本ガイド
 
-This guide will show you how to use a pre-trained model in an example Unity
-environment (3D Ball) and show you how to train the model yourself.
+このガイドでは、Unity環境（3D Ball）の例で事前に訓練されたモデルを使用する方法と、自分でモデルを訓練する方法を説明します。
 
-If you are not familiar with the [Unity Engine](https://unity3d.com/unity), we
-highly recommend the [Roll-a-ball
-tutorial](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial) to learn all
-the basic concepts of Unity.
+[Unity Engine](https://unity3d.com/unity)に慣れていない場合は、Unityのすべての基本的な概念を学ぶために[Roll-a-ballチュートリアル](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)を学ぶことを強くお勧めします。
 
-## Setting up the ML-Agents Toolkit within Unity
+## Unity内でML-Agentsツールキットを設定する
 
-In order to use the ML-Agents toolkit within Unity, you first need to change a few
-Unity settings. 
+
+Unity内でML-Agentsツールキットを使用するには、まずいくつかのUnity設定を変更する必要があります。
 
 1. Launch Unity
 2. On the Projects dialog, choose the **Open** option at the top of the window.
@@ -24,6 +20,22 @@ Unity settings.
     2. Select **Scripting Runtime Version** to **Experimental (.NET 4.6
        Equivalent or .NET 4.x Equivalent)**
 6. Go to **File** > **Save Project**
+
+
+578/5000
+1. Unityを起動する
+2.プロジェクトダイアログで、ウィンドウ上部の** Open **オプションを選択します。
+3.開いたファイルダイアログを使用して、ML-Agentsツールキットプロジェクト内の `UnitySDK`フォルダを見つけて** Open **をクリックします。
+4. **編集**> **プロジェクト設定**> **プレーヤー**に移動します。
+5.対象とするプラットフォームの**各**（** PC、Mac、Linux Standalone **、
+    ** iOS **または** Android **）：
+     1. **その他の設定**セクションを展開します。
+     2. ** Scripting Runtime Version **から** Experimentalを選択します（.NET 4.6）
+        同等または.NET 4.x同等）**
+6. **ファイル**> **プロジェクトの保存**に移動します。
+
+
+
 
 ## Running a Pre-trained Model
 
