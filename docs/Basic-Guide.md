@@ -10,7 +10,7 @@
 Unity内でML-Agentsツールキットを使用するには、まずいくつかのUnity設定を変更する必要があります。
 
 1. Launch Unity
-2. On the Projects dialog, choose the **Open** option at the top of the window.
+2. On the Projects dialog, choose the **Open **option at the top of the window.
 3. Using the file dialog that opens, locate the `UnitySDK` folder
    within the ML-Agents toolkit project and click **Open**.
 4. Go to **Edit** > **Project Settings** > **Player**
@@ -22,17 +22,14 @@ Unity内でML-Agentsツールキットを使用するには、まずいくつか
 6. Go to **File** > **Save Project**
 
 
-578/5000
 1. Unityを起動する
-2.プロジェクトダイアログで、ウィンドウ上部の** Open **オプションを選択します。
-3.開いたファイルダイアログを使用して、ML-Agentsツールキットプロジェクト内の `UnitySDK`フォルダを見つけて** Open **をクリックします。
-4. **編集**> **プロジェクト設定**> **プレーヤー**に移動します。
-5.対象とするプラットフォームの**各**（** PC、Mac、Linux Standalone **、
-    ** iOS **または** Android **）：
-     1. **その他の設定**セクションを展開します。
-     2. ** Scripting Runtime Version **から** Experimentalを選択します（.NET 4.6）
-        同等または.NET 4.x同等）**
-6. **ファイル**> **プロジェクトの保存**に移動します。
+2.プロジェクトダイアログで、ウィンドウ上部の **Open **オプションを選択します。 
+3.開いたファイルダイアログを使用して、ML-Agentsツールキットプロジェクト内の `UnitySDK`フォルダを見つけて**Open**をクリックします。
+4. **Edit**> **Project Settings**> **Player**に移動します。
+5.対象とするプラットフォームの **each** （**PC, Mac and Linux Standalone**,**iOS** or **Android**):
+     1.  **Other Settings** セクションを展開します。
+     2. **Scripting Runtime Version**から**Experimental Equivalent or .NET 4.x Equivalent)** を選択します。
+6. **File**> **Save Project**に移動します。
 
 
 
